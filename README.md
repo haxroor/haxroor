@@ -1,5 +1,5 @@
 ## 🧠 About me:
-I'm a Computer Science student at the University of Rome Tor Vergata, with a keen interest in LLMs and NLP. I occasionally work on personal projects and applications to sharpen my skills and expand my horizons. I enjoy building practical solutions and experimenting with new programming languages and frameworks through simple, hands-on projects.
+I'm a Computer Science student at the University of Rome Tor Vergata, with a keen interest in ML and NLP. I occasionally work on personal projects and applications to sharpen my skills and expand my horizons. I enjoy building practical solutions and experimenting with new programming languages and frameworks through simple, hands-on projects.
 
 ## 💻 Tech Stack:
 
