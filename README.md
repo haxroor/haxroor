@@ -15,7 +15,7 @@ I'm a Computer Science student at the University of Rome Tor Vergata, with a kee
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📱 Mobile / Frontend
+### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### 🛠️ Tools & Versioning
